@@ -1,0 +1,7 @@
+---
+title: "city-guide"
+format: html
+editor: visual
+---
+
+Welcome! This is a city guide to Hamburg and Rotterdam.
