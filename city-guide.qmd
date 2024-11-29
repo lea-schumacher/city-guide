@@ -1,5 +1,7 @@
 ---
 title: "City Guide to Hamburg and Rotterdam"
+author: Lea Schumacher
+theme: Yeti
 format: html
 editor: visual
 ---
