@@ -1,5 +1,5 @@
 ---
-title: "city-guide"
+title: "City Guide to Hamburg and Rotterdam"
 format: html
 editor: visual
 ---
