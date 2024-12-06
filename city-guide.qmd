@@ -8,6 +8,20 @@ editor: visual
 
 Welcome! This is a city guide to Hamburg and Rotterdam.
 
+# Cozy cafés in Hamburg
+
+-   Paledo, has great food and coffee. Based in Winterhude, Eppendorf and Rotherbaum.
+
+# Fun outdoor activities in Hamburg
+
+-   Biking along the Elbe to Blankenese
+-   Taking a ferry to Finkenwerder to enjoy the river cruise. No additional costs if you own a HVV ticket.
+
+# Best water activities in Hamburg
+
+-   Elbstrand
+-   Stand-up paddling on the Alster canals
+
 # Best cinemas in Hamburg
 
 -   [Abaton Kino](https://www.abaton.de/page.pl?index)
