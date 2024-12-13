@@ -10,7 +10,7 @@ Welcome! This is a city guide to Hamburg and Rotterdam.
 
 # Cozy cafés in Hamburg
 
--   Paledo, has great food and coffee. Based in Winterhude, Eppendorf and Rotherbaum.
+-   \[Paledo\] (https://paledohamburg.de): has great food and coffee. Based in Winterhude, Eppendorf and Rotherbaum.
 
 # Fun outdoor activities in Hamburg
 
@@ -30,3 +30,7 @@ Welcome! This is a city guide to Hamburg and Rotterdam.
 # Ideal places for a fun night out in Hamburg
 
 -   Christmas market Santa Pauli
+
+# Places to avoid in Hamburg
+
+- Espresso house, not cozy, bad coffee
