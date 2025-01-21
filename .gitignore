@@ -4,3 +4,5 @@ city-guide_files/
 test-quarto.html
 test-quarto.qmd
 test-quarto_files/
+/.quarto/
+/_site/
